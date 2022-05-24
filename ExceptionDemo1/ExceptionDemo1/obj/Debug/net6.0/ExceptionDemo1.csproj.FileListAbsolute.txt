@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\bin\Debug\net6.0\ExceptionDemo1.exe
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\bin\Debug\net6.0\ExceptionDemo1.deps.json
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\bin\Debug\net6.0\ExceptionDemo1.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\bin\Debug\net6.0\ExceptionDemo1.dll
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\bin\Debug\net6.0\ref\ExceptionDemo1.dll
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\bin\Debug\net6.0\ExceptionDemo1.pdb
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ExceptionDemo1.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ExceptionDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ExceptionDemo1.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ExceptionDemo1.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ExceptionDemo1.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ExceptionDemo1.dll
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ref\ExceptionDemo1.dll
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ExceptionDemo1.pdb
+D:\IBM Manyatha\Console Demos\ExceptionDemo1\ExceptionDemo1\obj\Debug\net6.0\ExceptionDemo1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\bin\Debug\net6.0\FunctionsDemo.exe
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\bin\Debug\net6.0\FunctionsDemo.deps.json
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\bin\Debug\net6.0\FunctionsDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\bin\Debug\net6.0\FunctionsDemo.dll
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\bin\Debug\net6.0\ref\FunctionsDemo.dll
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\bin\Debug\net6.0\FunctionsDemo.pdb
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\FunctionsDemo.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\FunctionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\FunctionsDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\FunctionsDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\FunctionsDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\FunctionsDemo.dll
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\ref\FunctionsDemo.dll
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\FunctionsDemo.pdb
+D:\IBM Manyatha\Console Demos\FunctionsDemo\FunctionsDemo\obj\Debug\net6.0\FunctionsDemo.genruntimeconfig.cache

@@ -1,0 +1,535 @@
+OOPs ==> Object Oriented programming
+
+Class 
+Object
+Data Abstraction
+Data Encapsulation
+Inheritance
+Polymorphism
+Message Passing
+Binding
+
+
+class :
+--------- 
+class is a blueprint of an object.
+
+it contains one or more Methods and variables.
+whatever the variables and methods we declared inside the class is called as member variable
+and member function.
+
+syntax to declare the class :
+---------------------------------------------
+class Classname
+{
+//declaring the member variable 
+ int a,b,c,result;
+
+//declaring the member function
+void addition()
+{
+result=a+b+c;
+Console.WriteLine("addition of three numbers are "+result);
+}
+
+}
+
+
+object :
+------------
+
+object is an instance of a class.  it otherwise called as runtime or realtime entity.
+ whenever we create the object that time object memory will allocate.
+
+
+It is mainly used access the properties of class.
+
+syntax for creating an object :
+---------------------------------------------------
+classname objectname= new classname();
+
+Access specifier :
+----------------------------
+public
+private
+protected
+internal 
+protected internal
+
+Public:
+----------
+
+once we declared the variable or function as a public we can access these 
+variables and functions outside of the class using object.
+
+private :
+----------- 
+once we declared the variable or function as a private we can't access these
+ variables and functions outside of the class (using object),but same class members can access.
+
+protected :
+=========
+
+we can inherit the protected member function and variable but we can't access 
+protected member function and variable outside of the class using object.but, 
+some other function of same class or derived can access.
+
+Static function :
+-------------------------
+ A class can have static and non-static function.
+once we declare the function as static we can access the static function without creating an object or instance.
+
+
+using classname itself we access the static function outside of the class.
+
+once we declare the function as non-static, we have to complusary create an object or instance.
+then only we can access outside of the class
+
+static function can access only the static variable from outside of the function
+we can't access  non static variable comes from outside of the function,
+but we can declare the non-static variable inside the static function.
+
+Constructor : 
+=============
+This is special method having the same name of class.
+constructor does not have return type.
+
+different types of constructor available:
+
+we don't want to call the constructor explicitly.Whenever we create an object
+ automatically constructor will call.
+
+default (or) parameter less constructor:
+================================
+this is type of constructor is not having any argument.
+ class sample
+    {
+         public  sample()//default constructor
+        {
+            Console.WriteLine("I am default constructor");
+        }
+}
+class Program
+    {
+        static void Main(string[] args)
+        {
+            sample obj = new sample();
+}
+}
+
+parameterised constructor
+========================
+ class sample
+    {
+         public  sample()//default constructor
+        {
+            Console.WriteLine("I am default constructor");
+        }
+         public sample(string name)//parameterised constructor
+         {
+             Console.WriteLine("I am Parameterised constructor \n Name = "+name );
+         }
+        
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            sample obj = new sample();//default constructor call
+           sample obj1 = new sample("Geetha");//parameterised constructor call
+           
+           Console.ReadLine();
+        }
+    }
+--------------------------------------------------------------------------------------------------------------------------------
+static constructor:
+=====================
+
+static constructor by default as public. we don't want to use access specifier public.
+
+static constructor will have first preference whether it is having an argument or not.
+then only non-static constructor will call depends on the parameters.
+
+ class sample
+    {
+         public  sample()//default constructor
+        {
+            Console.WriteLine("I am default constructor");
+        }
+         public sample(string name)//parameterised constructor
+         {
+             Console.WriteLine("I am Parameterised constructor \n Name = "+name );
+         }
+        static sample()
+         {
+             Console.WriteLine("I am static constructor");
+         }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            sample obj = new sample();
+           sample obj1 = new sample("Geetha");
+           
+           Console.ReadLine();
+        }
+    }
+
+Output :
+=======
+I am static constructor
+I am default constructor
+I am Parameterised constructor 
+ Name = Geetha
+==========================================================
+
+ class sample
+    {
+         public  sample()//default constructor
+        {
+            Console.WriteLine("I am default constructor");
+        }
+         public sample(string name)//parameterised constructor
+         {
+             Console.WriteLine("I am Parameterised constructor \n Name = "+name );
+         }
+        static sample()
+         {
+             Console.WriteLine("I am static constructor");
+         }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           sample obj1 = new sample("Geetha");           
+           Console.ReadLine();
+        }
+    }
+
+Output :
+=======
+I am static constructor
+I am Parameterised constructor 
+ Name = Geetha
+
+===============================================================
+
+
+
+Data Abstraction:
+------------------------------
+A class may contain all the details but it hide the background detail and it shows essential detail.
+
+Ex :Calculator :
+
+Data Encapsulation:
+----------------------------------
+wrapping of data into a single unit.
+
+==================================================
+Example for class and object :
+------------------------------
+ //user defined class 
+
+    class calculator
+    {
+        int x, y, ares, sres, mres;
+        public  void getNumbers()
+        {
+            Console.WriteLine("Enter the 2 values for x and y");
+            x =int.Parse( Console.ReadLine());
+            y =int.Parse( Console.ReadLine());
+        }
+        public void add()
+        {
+            ares = x + y;
+            Console.WriteLine(" Addition Result {0}", ares);
+        }
+        public void subtraction()
+        {
+            sres = x - y;
+            Console.WriteLine(" subtraction Result {0}", sres);
+        }
+        public void multiplication()
+        {
+            mres = x * y;
+            Console.WriteLine(" Multiplication Result {0}", mres);
+        }
+
+    }
+
+    //by default Class 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            calculator calculator= new calculator();
+            calculator.getNumbers();
+            calculator .add();
+            //calculator.subtraction(); if you want to do subtration of given number you can call this function
+            //calculator.multiplication();
+            Console.ReadKey();
+        }
+    }
+}
+
+
+===================================================================
+static function can access only static variable which present outside of function
+
+static function can't access only non-static variable which present outside of function
+
+but we can declare he non-static Variable inside the static function.
+
+
+example for accessing properties of a class without creating an Object :
+-----------------------------------------------------------------------------------------------------------------
+
+//user defined class 
+
+    class calculator
+    {
+       // int x, y, ares, sres, mres;
+        public static  void getNumbers()
+        {
+            int x, y;
+            Console.WriteLine("Enter the 2 values for x and y");
+            x =int.Parse( Console.ReadLine());
+            y =int.Parse( Console.ReadLine());
+        }     
+    }
+
+    //by default Class 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            calculator.getNumbers();
+                     
+            Console.ReadKey();
+        }
+    }
+}
+============================================================================
+
+inheritance :
+-------------------
+
+creating a new class with getting the properties of an existing class
+ and Add some new features.
+
+
+single inheritance: 
+----------------------------
+Only one base class and only one derived 
+
+base class -derived class
+parent class- child class
+super class - sub class
+
+multilevel inheritance : 
+-------------------------------------
+grand parent ==> parent ==> child
+
+base class ==> intermediate base class ==> derived class
+
+multiple inheritance
+hierarichal inheritance
+hybrid inheritance
+==============================================================
+
+example for single Inheritance :
+--------------------------------------------------
+
+ class One
+    {
+        public void aa()
+        {
+            Console.WriteLine(" I am  aa from class One");
+        }
+    }
+
+    class Two : One // using : we are inheriting the properties of class One
+    {
+        public void bb()
+        {
+            Console.WriteLine(" I am  bb of Class Two");
+        }
+
+    }
+
+     class Program
+    {
+      
+        static void Main(string[] args)
+        {
+           Two obj = new Two();
+            obj.aa();
+            obj.bb();
+            Console.ReadKey();
+        }
+    }
+}
+========================================================================
+
+  class One
+    {
+        public void aa()
+        {
+            Console.WriteLine(" I am base class Method aa");
+            cc();
+        }
+        private void cc()
+        {
+            Console.WriteLine(" I am base class private member function cc");
+        }
+    }
+    class Two : One //Using : we are inheriting the properties of class one
+    {
+        public void bb()
+        {
+            Console.WriteLine(" I am derived class Method bb");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Two obj = new Two();
+            obj.aa();
+            obj.bb();
+           obj.cc();//Error :we can't access cc because it s private function we cant able to inherit to class Two.
+           Console.ReadLine();
+        }
+=====================================================================
+namespace Demo2_ConsoleApplication
+{
+    class One
+    {
+        public void aa()
+        {
+            Console.WriteLine(" I am base class Method aa");
+            cc();
+        }
+        private void cc()
+        {
+            Console.WriteLine(" I am base class private member function cc");
+        }
+        protected void dd()
+        {
+            Console.WriteLine("I am protected member function dd");
+        }
+    }
+    class Two : One //Using : we are inheriting the properties of class one
+    {
+        public void bb()
+        {
+            Console.WriteLine(" I am derived class Method bb");
+           dd();
+           
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Two obj = new Two();
+            obj.aa();
+            obj.bb();    
+           
+           Console.ReadLine();
+        }
+    }
+}
+=================================================================
+example for single inheritance  (static Function)
+--------------------------------------------------
+
+    //user defined class 
+    class one
+    {
+        public static void aa()
+        {
+            Console.WriteLine(" I am  aa of One");
+        }
+    }
+
+    class two : one
+    {
+        public  static void bb()
+        {
+            Console.WriteLine(" I bb of Class Two");
+        }
+
+    }
+
+     class Program
+    {
+      
+        static void Main(string[] args)
+        {
+            two.aa();
+            two.bb();
+            //two obj = new two();
+            //obj.aa();
+            //obj.bb();
+            Console.ReadKey();
+        }
+    }
+}
+
+==========================================================================
+Exmaple for an Multilevel Inheritance :
+-----------------------------------------
+
+namespace Class_and_Object
+{
+    //user defined class 
+    class One
+    {
+        public void aa()
+        {
+            Console.WriteLine(" I am  aa of One");
+        }
+    }
+
+    class Two : One
+    {
+        public  void bb()
+        {
+            Console.WriteLine(" I bb of Class Two");
+        }
+
+    }
+    class Three : Two
+    {
+        public void cc()
+        {
+            Console.WriteLine(" I am cc of class Three");
+        }
+    }
+    class Four: Three
+    {
+        public void dd()
+        {
+            Console.WriteLine(" I am dd of class four");
+        }
+    }
+
+     class Program
+    {
+      
+        static void Main(string[] args)
+        {
+           Four four = new Four();
+            obj.aa();
+            obj.bb();
+            obj.cc();
+	    obj.dd();
+            Console.ReadKey();
+        }
+    }
+}
+==========================================================================

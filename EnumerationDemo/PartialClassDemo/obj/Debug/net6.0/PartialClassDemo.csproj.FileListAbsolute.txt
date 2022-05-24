@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\bin\Debug\net6.0\PartialClassDemo.exe
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\bin\Debug\net6.0\PartialClassDemo.deps.json
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\bin\Debug\net6.0\PartialClassDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\bin\Debug\net6.0\PartialClassDemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\bin\Debug\net6.0\ref\PartialClassDemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\bin\Debug\net6.0\PartialClassDemo.pdb
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\PartialClassDemo.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\PartialClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\PartialClassDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\PartialClassDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\PartialClassDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\PartialClassDemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\ref\PartialClassDemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\PartialClassDemo.pdb
+D:\IBM Manyatha\Console Demos\EnumerationDemo\PartialClassDemo\obj\Debug\net6.0\PartialClassDemo.genruntimeconfig.cache

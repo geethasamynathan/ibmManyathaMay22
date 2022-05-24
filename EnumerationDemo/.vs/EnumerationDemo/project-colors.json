@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1291888-38f3-4a66-b6bb-e2bb6925d6e5": {
+      "ProjectGuid": "f1291888-38f3-4a66-b6bb-e2bb6925d6e5",
+      "DisplayName": "EnumerationDemo",
+      "ColorIndex": 0
+    },
+    "050de7eb-1269-458e-9a93-2e5c5cb9a379": {
+      "ProjectGuid": "050de7eb-1269-458e-9a93-2e5c5cb9a379",
+      "DisplayName": "PartialClassDemo",
+      "ColorIndex": 1
+    },
+    "b1a76504-1eb3-48b6-9bd3-0d1b08270181": {
+      "ProjectGuid": "b1a76504-1eb3-48b6-9bd3-0d1b08270181",
+      "DisplayName": "FileIODemo",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

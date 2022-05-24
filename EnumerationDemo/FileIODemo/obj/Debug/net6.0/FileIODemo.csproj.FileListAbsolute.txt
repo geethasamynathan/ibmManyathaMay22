@@ -1,0 +1,14 @@
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\bin\Debug\net6.0\FileIODemo.exe
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\bin\Debug\net6.0\FileIODemo.deps.json
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\bin\Debug\net6.0\FileIODemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\bin\Debug\net6.0\FileIODemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\bin\Debug\net6.0\ref\FileIODemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\bin\Debug\net6.0\FileIODemo.pdb
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\obj\Debug\net6.0\FileIODemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\obj\Debug\net6.0\FileIODemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\obj\Debug\net6.0\FileIODemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\obj\Debug\net6.0\FileIODemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\obj\Debug\net6.0\FileIODemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\obj\Debug\net6.0\ref\FileIODemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\obj\Debug\net6.0\FileIODemo.pdb
+D:\IBM Manyatha\Console Demos\EnumerationDemo\FileIODemo\obj\Debug\net6.0\FileIODemo.genruntimeconfig.cache

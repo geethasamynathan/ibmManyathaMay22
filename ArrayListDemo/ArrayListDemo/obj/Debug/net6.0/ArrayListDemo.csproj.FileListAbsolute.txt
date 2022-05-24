@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\bin\Debug\net6.0\ArrayListDemo.exe
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\bin\Debug\net6.0\ArrayListDemo.deps.json
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\bin\Debug\net6.0\ArrayListDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\bin\Debug\net6.0\ArrayListDemo.dll
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\bin\Debug\net6.0\ref\ArrayListDemo.dll
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\bin\Debug\net6.0\ArrayListDemo.pdb
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ArrayListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ArrayListDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ArrayListDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ArrayListDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ArrayListDemo.dll
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ref\ArrayListDemo.dll
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ArrayListDemo.pdb
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ArrayListDemo.genruntimeconfig.cache
+D:\IBM Manyatha\Console Demos\ArrayListDemo\ArrayListDemo\obj\Debug\net6.0\ArrayListDemo.csproj.AssemblyReference.cache

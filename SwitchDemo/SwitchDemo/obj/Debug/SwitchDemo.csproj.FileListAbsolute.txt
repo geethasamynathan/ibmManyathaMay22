@@ -1,0 +1,8 @@
+D:\IBM Manyatha\Console Demos\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe.config
+D:\IBM Manyatha\Console Demos\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe
+D:\IBM Manyatha\Console Demos\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.pdb
+D:\IBM Manyatha\Console Demos\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.csproj.SuggestedBindingRedirects.cache
+D:\IBM Manyatha\Console Demos\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.exe
+D:\IBM Manyatha\Console Demos\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.pdb
+D:\IBM Manyatha\Console Demos\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.csproj.AssemblyReference.cache

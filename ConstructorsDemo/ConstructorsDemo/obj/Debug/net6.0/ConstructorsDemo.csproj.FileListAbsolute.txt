@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\bin\Debug\net6.0\ConstructorsDemo.exe
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\bin\Debug\net6.0\ConstructorsDemo.deps.json
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\bin\Debug\net6.0\ConstructorsDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\bin\Debug\net6.0\ConstructorsDemo.dll
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\bin\Debug\net6.0\ref\ConstructorsDemo.dll
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\bin\Debug\net6.0\ConstructorsDemo.pdb
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ConstructorsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ConstructorsDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ConstructorsDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ConstructorsDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ConstructorsDemo.dll
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ref\ConstructorsDemo.dll
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ConstructorsDemo.pdb
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ConstructorsDemo.genruntimeconfig.cache
+D:\IBM Manyatha\Console Demos\ConstructorsDemo\ConstructorsDemo\obj\Debug\net6.0\ConstructorsDemo.csproj.AssemblyReference.cache

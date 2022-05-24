@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\bin\Debug\net6.0\ClassObjectConceptDemo.exe
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\bin\Debug\net6.0\ClassObjectConceptDemo.deps.json
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\bin\Debug\net6.0\ClassObjectConceptDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\bin\Debug\net6.0\ClassObjectConceptDemo.dll
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\bin\Debug\net6.0\ref\ClassObjectConceptDemo.dll
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\bin\Debug\net6.0\ClassObjectConceptDemo.pdb
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ClassObjectConceptDemo.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ClassObjectConceptDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ClassObjectConceptDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ClassObjectConceptDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ClassObjectConceptDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ClassObjectConceptDemo.dll
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ref\ClassObjectConceptDemo.dll
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ClassObjectConceptDemo.pdb
+D:\IBM Manyatha\Console Demos\ClassObjectConceptDemo\ClassObjectConceptDemo\obj\Debug\net6.0\ClassObjectConceptDemo.genruntimeconfig.cache

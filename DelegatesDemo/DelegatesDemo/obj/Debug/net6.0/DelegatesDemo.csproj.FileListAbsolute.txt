@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.exe
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.deps.json
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.dll
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\ref\DelegatesDemo.dll
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.pdb
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.dll
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\ref\DelegatesDemo.dll
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.pdb
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.genruntimeconfig.cache
+D:\IBM Manyatha\Console Demos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.csproj.AssemblyReference.cache

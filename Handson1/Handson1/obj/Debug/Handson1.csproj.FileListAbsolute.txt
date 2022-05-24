@@ -1,0 +1,8 @@
+D:\IBM Manyatha\Console Demos\Handson1\Handson1\bin\Debug\Handson1.exe.config
+D:\IBM Manyatha\Console Demos\Handson1\Handson1\bin\Debug\Handson1.exe
+D:\IBM Manyatha\Console Demos\Handson1\Handson1\bin\Debug\Handson1.pdb
+D:\IBM Manyatha\Console Demos\Handson1\Handson1\obj\Debug\Handson1.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\Handson1\Handson1\obj\Debug\Handson1.csproj.SuggestedBindingRedirects.cache
+D:\IBM Manyatha\Console Demos\Handson1\Handson1\obj\Debug\Handson1.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\Handson1\Handson1\obj\Debug\Handson1.exe
+D:\IBM Manyatha\Console Demos\Handson1\Handson1\obj\Debug\Handson1.pdb

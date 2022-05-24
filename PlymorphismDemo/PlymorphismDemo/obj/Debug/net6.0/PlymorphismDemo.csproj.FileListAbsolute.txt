@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\bin\Debug\net6.0\PlymorphismDemo.exe
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\bin\Debug\net6.0\PlymorphismDemo.deps.json
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\bin\Debug\net6.0\PlymorphismDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\bin\Debug\net6.0\PlymorphismDemo.dll
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\bin\Debug\net6.0\ref\PlymorphismDemo.dll
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\bin\Debug\net6.0\PlymorphismDemo.pdb
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\PlymorphismDemo.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\PlymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\PlymorphismDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\PlymorphismDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\PlymorphismDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\PlymorphismDemo.dll
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\ref\PlymorphismDemo.dll
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\PlymorphismDemo.pdb
+D:\IBM Manyatha\Console Demos\PlymorphismDemo\PlymorphismDemo\obj\Debug\net6.0\PlymorphismDemo.genruntimeconfig.cache

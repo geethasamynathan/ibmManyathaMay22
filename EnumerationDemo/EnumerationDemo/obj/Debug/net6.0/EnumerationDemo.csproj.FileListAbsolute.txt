@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\bin\Debug\net6.0\EnumerationDemo.exe
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\bin\Debug\net6.0\EnumerationDemo.deps.json
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\bin\Debug\net6.0\EnumerationDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\bin\Debug\net6.0\EnumerationDemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\bin\Debug\net6.0\ref\EnumerationDemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\bin\Debug\net6.0\EnumerationDemo.pdb
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\EnumerationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\EnumerationDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\EnumerationDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\EnumerationDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\EnumerationDemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\ref\EnumerationDemo.dll
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\EnumerationDemo.pdb
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\EnumerationDemo.genruntimeconfig.cache
+D:\IBM Manyatha\Console Demos\EnumerationDemo\EnumerationDemo\obj\Debug\net6.0\EnumerationDemo.csproj.AssemblyReference.cache

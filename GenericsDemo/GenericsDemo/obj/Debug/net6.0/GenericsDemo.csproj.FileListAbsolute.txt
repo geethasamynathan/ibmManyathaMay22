@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.exe
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.deps.json
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.dll
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\bin\Debug\net6.0\ref\GenericsDemo.dll
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.pdb
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.dll
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\ref\GenericsDemo.dll
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.pdb
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.genruntimeconfig.cache
+D:\IBM Manyatha\Console Demos\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.csproj.AssemblyReference.cache

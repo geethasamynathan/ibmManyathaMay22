@@ -1,0 +1,14 @@
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\obj\Debug\net6.0\ConstructorinInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\obj\Debug\net6.0\ConstructorinInheritanceDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\obj\Debug\net6.0\ConstructorinInheritanceDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\obj\Debug\net6.0\ConstructorinInheritanceDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\bin\Debug\net6.0\ConstructorinInheritanceDemo.exe
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\bin\Debug\net6.0\ConstructorinInheritanceDemo.deps.json
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\bin\Debug\net6.0\ConstructorinInheritanceDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\bin\Debug\net6.0\ConstructorinInheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\bin\Debug\net6.0\ref\ConstructorinInheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\bin\Debug\net6.0\ConstructorinInheritanceDemo.pdb
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\obj\Debug\net6.0\ConstructorinInheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\obj\Debug\net6.0\ref\ConstructorinInheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\obj\Debug\net6.0\ConstructorinInheritanceDemo.pdb
+D:\IBM Manyatha\Console Demos\ConstructorinInheritanceDemo\ConstructorinInheritanceDemo\obj\Debug\net6.0\ConstructorinInheritanceDemo.genruntimeconfig.cache

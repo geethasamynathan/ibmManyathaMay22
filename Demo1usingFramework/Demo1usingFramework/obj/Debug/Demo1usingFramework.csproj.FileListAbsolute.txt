@@ -1,0 +1,8 @@
+D:\IBM Manyatha\Console Demos\Demo1usingFramework\Demo1usingFramework\bin\Debug\Demo1usingFramework.exe.config
+D:\IBM Manyatha\Console Demos\Demo1usingFramework\Demo1usingFramework\bin\Debug\Demo1usingFramework.exe
+D:\IBM Manyatha\Console Demos\Demo1usingFramework\Demo1usingFramework\bin\Debug\Demo1usingFramework.pdb
+D:\IBM Manyatha\Console Demos\Demo1usingFramework\Demo1usingFramework\obj\Debug\Demo1usingFramework.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\Demo1usingFramework\Demo1usingFramework\obj\Debug\Demo1usingFramework.csproj.SuggestedBindingRedirects.cache
+D:\IBM Manyatha\Console Demos\Demo1usingFramework\Demo1usingFramework\obj\Debug\Demo1usingFramework.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\Demo1usingFramework\Demo1usingFramework\obj\Debug\Demo1usingFramework.exe
+D:\IBM Manyatha\Console Demos\Demo1usingFramework\Demo1usingFramework\obj\Debug\Demo1usingFramework.pdb

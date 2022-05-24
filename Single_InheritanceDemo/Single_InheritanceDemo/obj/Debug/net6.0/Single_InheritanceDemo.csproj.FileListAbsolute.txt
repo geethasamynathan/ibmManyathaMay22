@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\bin\Debug\net6.0\Single_InheritanceDemo.exe
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\bin\Debug\net6.0\Single_InheritanceDemo.deps.json
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\bin\Debug\net6.0\Single_InheritanceDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\bin\Debug\net6.0\Single_InheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\bin\Debug\net6.0\ref\Single_InheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\bin\Debug\net6.0\Single_InheritanceDemo.pdb
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\Single_InheritanceDemo.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\Single_InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\Single_InheritanceDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\Single_InheritanceDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\Single_InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\Single_InheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\ref\Single_InheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\Single_InheritanceDemo.pdb
+D:\IBM Manyatha\Console Demos\Single_InheritanceDemo\Single_InheritanceDemo\obj\Debug\net6.0\Single_InheritanceDemo.genruntimeconfig.cache

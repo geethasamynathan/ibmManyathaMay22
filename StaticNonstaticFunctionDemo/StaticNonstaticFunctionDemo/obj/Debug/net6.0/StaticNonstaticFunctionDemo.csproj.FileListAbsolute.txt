@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\bin\Debug\net6.0\StaticNonstaticFunctionDemo.exe
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\bin\Debug\net6.0\StaticNonstaticFunctionDemo.deps.json
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\bin\Debug\net6.0\StaticNonstaticFunctionDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\bin\Debug\net6.0\StaticNonstaticFunctionDemo.dll
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\bin\Debug\net6.0\ref\StaticNonstaticFunctionDemo.dll
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\bin\Debug\net6.0\StaticNonstaticFunctionDemo.pdb
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\StaticNonstaticFunctionDemo.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\StaticNonstaticFunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\StaticNonstaticFunctionDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\StaticNonstaticFunctionDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\StaticNonstaticFunctionDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\StaticNonstaticFunctionDemo.dll
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\ref\StaticNonstaticFunctionDemo.dll
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\StaticNonstaticFunctionDemo.pdb
+D:\IBM Manyatha\Console Demos\StaticNonstaticFunctionDemo\StaticNonstaticFunctionDemo\obj\Debug\net6.0\StaticNonstaticFunctionDemo.genruntimeconfig.cache

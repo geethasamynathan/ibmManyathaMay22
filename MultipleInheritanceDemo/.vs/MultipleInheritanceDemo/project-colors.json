@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0eea6587-3927-4293-a0fc-57e058dfec06": {
+      "ProjectGuid": "0eea6587-3927-4293-a0fc-57e058dfec06",
+      "DisplayName": "MultipleInheritanceDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4b19914-cf10-4e8e-80ef-88033b7cf345": {
+      "ProjectGuid": "c4b19914-cf10-4e8e-80ef-88033b7cf345",
+      "DisplayName": "Demo1usingFramework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

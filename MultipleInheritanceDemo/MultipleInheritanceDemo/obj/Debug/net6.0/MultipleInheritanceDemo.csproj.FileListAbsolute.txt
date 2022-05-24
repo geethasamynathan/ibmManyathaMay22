@@ -1,0 +1,15 @@
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.exe
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.deps.json
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.runtimeconfig.json
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\ref\MultipleInheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.pdb
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.csproj.AssemblyReference.cache
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.AssemblyInfoInputs.cache
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.AssemblyInfo.cs
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.csproj.CoreCompileInputs.cache
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\ref\MultipleInheritanceDemo.dll
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.pdb
+D:\IBM Manyatha\Console Demos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc402f08-a4c9-441c-84c7-2967b0281eb2": {
+      "ProjectGuid": "dc402f08-a4c9-441c-84c7-2967b0281eb2",
+      "DisplayName": "DelegatesDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
