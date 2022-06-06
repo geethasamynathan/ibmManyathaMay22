@@ -80,6 +80,7 @@
     <Content Include="DropDownListDemo.aspx" />
     <Content Include="EmployeeDetails.aspx" />
     <Content Include="EmployeeRegistration.aspx" />
+    <Content Include="FileUploadDemo.aspx" />
     <Content Include="Global.asax" />
     <Content Include="ImageControlsDemo.aspx" />
     <Content Include="images\art.jpg" />
@@ -134,6 +135,13 @@
     </Compile>
     <Compile Include="EmployeeRegistration.aspx.designer.cs">
       <DependentUpon>EmployeeRegistration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FileUploadDemo.aspx.cs">
+      <DependentUpon>FileUploadDemo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FileUploadDemo.aspx.designer.cs">
+      <DependentUpon>FileUploadDemo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -195,6 +203,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Uploads\" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

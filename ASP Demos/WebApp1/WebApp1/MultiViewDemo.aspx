@@ -22,7 +22,7 @@
     <form id="form1" runat="server">
         <div>
             
-            <asp:MultiView ID="MultiView1" runat="server">
+            <asp:MultiView ID="MultiView1" runat="server" >
                 <asp:View ID="StudentDetailsView" runat="server">
 
                     <br />
