@@ -86,6 +86,7 @@
     <Content Include="images\calendar.png" />
     <Content Include="images\Map.jpg" />
     <Content Include="images\radiology.jpg" />
+    <Content Include="MultiViewDemo.aspx" />
     <Content Include="UserModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>UserModel.Context.cs</LastGenOutput>
@@ -143,6 +144,13 @@
     </Compile>
     <Compile Include="ImageControlsDemo.aspx.designer.cs">
       <DependentUpon>ImageControlsDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MultiViewDemo.aspx.cs">
+      <DependentUpon>MultiViewDemo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MultiViewDemo.aspx.designer.cs">
+      <DependentUpon>MultiViewDemo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="tblEmployee.cs">
