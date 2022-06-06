@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/art.jpg</ImageUrl>
+    <NavigateUrl>http://yahoo.com</NavigateUrl>
+    <AlternateText>Visit to yahoo.com</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Map.jpg</ImageUrl>
+    <NavigateUrl>https://www.india.gov.in/</NavigateUrl>
+    <AlternateText>Visit to Govt of India</AlternateText>
+    <Impressions>20</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/radiology.jpg</ImageUrl>
+    <NavigateUrl>https://pubs.rsna.org/journal/radiology</NavigateUrl>
+    <AlternateText>Visit to radiology.com</AlternateText>
+    <Impressions>30</Impressions>
+  </Ad>
+</Advertisements>

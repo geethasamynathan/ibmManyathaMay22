@@ -76,6 +76,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AddNewUser.aspx" />
+    <Content Include="AdRotatorDemo.aspx" />
+    <Content Include="AdsFile.xml" />
     <Content Include="Default.aspx" />
     <Content Include="DropDownListDemo.aspx" />
     <Content Include="EmployeeDetails.aspx" />
@@ -99,6 +101,7 @@
       <LastGenOutput>UserModel.cs</LastGenOutput>
     </Content>
     <Content Include="Web.config" />
+    <Content Include="WizardDemo.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddNewUser.aspx.cs">
@@ -107,6 +110,13 @@
     </Compile>
     <Compile Include="AddNewUser.aspx.designer.cs">
       <DependentUpon>AddNewUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdRotatorDemo.aspx.cs">
+      <DependentUpon>AdRotatorDemo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdRotatorDemo.aspx.designer.cs">
+      <DependentUpon>AdRotatorDemo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
@@ -181,6 +191,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>UserModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="WizardDemo.aspx.cs">
+      <DependentUpon>WizardDemo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WizardDemo.aspx.designer.cs">
+      <DependentUpon>WizardDemo.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
